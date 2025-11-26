@@ -1,0 +1,125 @@
+﻿@{
+    ViewData["Title"] = "Registrar Pago";
+    var tiposGasto = ViewBag.TiposGasto as List<LogicaApp.DTO.TipoGastoDTO>;
+}
+
+<h1>Registrar Pago</h1>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <strong>Error:</strong> @ViewBag.Error
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>
+}
+
+@if (TempData["Exito"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <i class="bi bi-check-circle-fill me-2"></i>@TempData["Exito"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>
+}
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="Create" method="post">
+            <div class="mb-3">
+                <label for="tipoPago" class="form-label">Tipo de Pago</label>
+                <select id="tipoPago" name="tipoPago" class="form-select">
+                    <option value="">Seleccione...</option>
+                    <option value="Unico">Unico</option>
+                    <option value="Recurrente">Recurrente</option>
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label for="metodoPago" class="form-label">Método de Pago</label>
+                <select id="metodoPago" name="metodoPago" class="form-select">
+                    <option value="0">Crédito</option>
+                    <option value="1">Efectivo</option>
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label for="tipoGastoId" class="form-label">Tipo de Gasto</label>
+                <select id="tipoGastoId" name="tipoGastoId" class="form-select">
+                    <option value="">Seleccione...</option>
+                    @foreach (var tg in tiposGasto)
+                    {
+                        <option value="@tg.Id">@tg.Nombre - @tg.Desc</option>
+                    }
+                </select>
+            </div>
+
+            <div class="mb-3">
+                <label for="desc" class="form-label">Descripción</label>
+                <input type="text" id="desc" name="desc" class="form-control" maxlength="200" required />
+            </div>
+
+            <!-- Campos pago único -->
+            <div id="unicoFields" class="d-none">
+                <div class="mb-3">
+                    <label for="fechaPago" class="form-label">Fecha de Pago</label>
+                    <input type="date" id="fechaPago" name="fechaPago" class="form-control" />
+                </div>
+                <div class="mb-3">
+                    <label for="numRecibo" class="form-label">Número de Recibo</label>
+                    <input type="text" id="numRecibo" name="numRecibo" class="form-control" />
+                </div>
+                <div class="mb-3">
+                    <label for="monto" class="form-label">Monto</label>
+                    <input type="number" step="0.01" id="monto" name="monto" class="form-control" />
+                </div>
+            </div>
+
+            <!-- Campos pago recurrente -->
+            <div id="recurrenteFields" class="d-none">
+                <div class="mb-3">
+                    <label for="fechaInicio" class="form-label">Fecha Inicio</label>
+                    <input type="date" id="fechaInicio" name="fechaInicio" class="form-control" />
+                </div>
+                <div class="mb-3">
+                    <label for="fechaFin" class="form-label">Fecha Fin</label>
+                    <input type="date" id="fechaFin" name="fechaFin" class="form-control" />
+                </div>
+                <div class="mb-3">
+                    <label for="montoMensual" class="form-label">Monto Mensual</label>
+                    <input type="number" step="0.01" id="montoMensual" name="montoMensual" class="form-control" />
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Registrar Pago</button>
+            <a asp-action="Index" class="btn btn-outline-secondary ms-2">Cancelar</a>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        const tipoPagoSelect = document.getElementById("tipoPago");
+        const unicoFields = document.getElementById("unicoFields");
+        const recurrenteFields = document.getElementById("recurrenteFields");
+
+        tipoPagoSelect.addEventListener("change", function () {
+            if (this.value === "Unico") {
+                unicoFields.classList.remove("d-none");
+                recurrenteFields.classList.add("d-none");
+            } else if (this.value === "Recurrente") {
+                recurrenteFields.classList.remove("d-none");
+                unicoFields.classList.add("d-none");
+            } else {
+                unicoFields.classList.add("d-none");
+                recurrenteFields.classList.add("d-none");
+            }
+        });
+
+        // Auto-cerrar alertas
+        setTimeout(() => {
+            document.querySelectorAll(".alert").forEach(a => {
+                var bsAlert = new bootstrap.Alert(a);
+                bsAlert.close();
+            });
+        }, 5000);
+    </script>
+}

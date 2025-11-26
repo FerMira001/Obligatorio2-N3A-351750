@@ -1,0 +1,529 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\obligatoriomvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\views\\usuarios\\resetearpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\views\\usuarios\\resetearpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\views\\pagos\\mispagos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\views\\pagos\\mispagos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\views\\pagos\\crearpagorecurrente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\views\\pagos\\crearpagorecurrente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\views\\auditorias\\portipogasto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\views\\auditorias\\portipogasto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\controllers\\auditoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\controllers\\auditoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\views\\equipos\\pagosmayores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\views\\equipos\\pagosmayores.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\controllers\\equiposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\controllers\\equiposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\views\\pagos\\crearpagounico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\views\\pagos\\crearpagounico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\models\\resetpasswordresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\models\\resetpasswordresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\models\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\models\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\models\\mispagosresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\models\\mispagosresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\models\\equipodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\models\\equipodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\models\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\models\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\models\\auditoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\models\\auditoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\models\\pagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\models\\pagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\models\\pagorecurrentedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\models\\pagorecurrentedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\models\\pagounicodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\models\\pagounicodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\models\\tipogastodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\models\\tipogastodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatoriomvc\\obligatoriomvc\\obligatoriomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB0ED00-8529-4A61-9562-1346702886D7}|ObligatorioMVC\\ObligatorioMVC.csproj|solutionrelative:obligatoriomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 418,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "ObligatorioMVC\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T23:24:07.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ObligatorioMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T23:37:54.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PagosController.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Controllers\\PagosController.cs",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Controllers\\PagosController.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Controllers\\PagosController.cs",
+              "RelativeToolTip": "ObligatorioMVC\\Controllers\\PagosController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAowIwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T23:23:59.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ObligatorioMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T00:36:04.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\appsettings.json",
+              "RelativeToolTip": "ObligatorioMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-24T23:28:07.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObligatorioMVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC.csproj",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\ObligatorioMVC.csproj",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC.csproj",
+              "RelativeToolTip": "ObligatorioMVC\\ObligatorioMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T23:32:33.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResetearPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Views\\Usuarios\\ResetearPassword.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Views\\Usuarios\\ResetearPassword.cshtml",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Views\\Usuarios\\ResetearPassword.cshtml",
+              "RelativeToolTip": "ObligatorioMVC\\Views\\Usuarios\\ResetearPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T00:59:26.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CrearPagoRecurrente.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Views\\Pagos\\CrearPagoRecurrente.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Views\\Pagos\\CrearPagoRecurrente.cshtml",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Views\\Pagos\\CrearPagoRecurrente.cshtml",
+              "RelativeToolTip": "ObligatorioMVC\\Views\\Pagos\\CrearPagoRecurrente.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T00:34:29.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MisPagos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Views\\Pagos\\MisPagos.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Views\\Pagos\\MisPagos.cshtml",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Views\\Pagos\\MisPagos.cshtml",
+              "RelativeToolTip": "ObligatorioMVC\\Views\\Pagos\\MisPagos.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwEQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T00:33:25.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ObligatorioMVC\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T23:23:50.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PagosMayores.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Views\\Equipos\\PagosMayores.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Views\\Equipos\\PagosMayores.cshtml",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Views\\Equipos\\PagosMayores.cshtml",
+              "RelativeToolTip": "ObligatorioMVC\\Views\\Equipos\\PagosMayores.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAmwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T00:35:25.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PorTipoGasto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Views\\Auditorias\\PorTipoGasto.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Views\\Auditorias\\PorTipoGasto.cshtml",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Views\\Auditorias\\PorTipoGasto.cshtml",
+              "RelativeToolTip": "ObligatorioMVC\\Views\\Auditorias\\PorTipoGasto.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T00:35:44.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CrearPagoUnico.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Views\\Pagos\\CrearPagoUnico.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Views\\Pagos\\CrearPagoUnico.cshtml",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Views\\Pagos\\CrearPagoUnico.cshtml",
+              "RelativeToolTip": "ObligatorioMVC\\Views\\Pagos\\CrearPagoUnico.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-25T00:34:05.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuditoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Controllers\\AuditoriasController.cs",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Controllers\\AuditoriasController.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Controllers\\AuditoriasController.cs",
+              "RelativeToolTip": "ObligatorioMVC\\Controllers\\AuditoriasController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T23:38:44.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EquiposController.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Controllers\\EquiposController.cs",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Controllers\\EquiposController.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Controllers\\EquiposController.cs",
+              "RelativeToolTip": "ObligatorioMVC\\Controllers\\EquiposController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwCYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T23:24:20.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ResetPasswordResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\ResetPasswordResponseDTO.cs",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Models\\ResetPasswordResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\ResetPasswordResponseDTO.cs",
+              "RelativeToolTip": "ObligatorioMVC\\Models\\ResetPasswordResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T00:31:08.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Models\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\UsuarioDTO.cs",
+              "RelativeToolTip": "ObligatorioMVC\\Models\\UsuarioDTO.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T23:31:16.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MisPagosResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\MisPagosResponseDTO.cs",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Models\\MisPagosResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\MisPagosResponseDTO.cs",
+              "RelativeToolTip": "ObligatorioMVC\\Models\\MisPagosResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T00:30:31.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Models\\LoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\LoginResponseDTO.cs",
+              "RelativeToolTip": "ObligatorioMVC\\Models\\LoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T23:55:59.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "ObligatorioMVC\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T23:41:21.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EquipoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\EquipoDTO.cs",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Models\\EquipoDTO.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\EquipoDTO.cs",
+              "RelativeToolTip": "ObligatorioMVC\\Models\\EquipoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T23:31:06.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PagoRecurrenteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\PagoRecurrenteDTO.cs",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Models\\PagoRecurrenteDTO.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\PagoRecurrenteDTO.cs",
+              "RelativeToolTip": "ObligatorioMVC\\Models\\PagoRecurrenteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T23:31:11.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Models\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\LoginDTO.cs",
+              "RelativeToolTip": "ObligatorioMVC\\Models\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T00:20:13.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuditoriaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\AuditoriaDTO.cs",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Models\\AuditoriaDTO.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\AuditoriaDTO.cs",
+              "RelativeToolTip": "ObligatorioMVC\\Models\\AuditoriaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T23:30:53.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PagoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\PagoDTO.cs",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Models\\PagoDTO.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\PagoDTO.cs",
+              "RelativeToolTip": "ObligatorioMVC\\Models\\PagoDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T23:31:09.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PagoUnicoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\PagoUnicoDTO.cs",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Models\\PagoUnicoDTO.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\PagoUnicoDTO.cs",
+              "RelativeToolTip": "ObligatorioMVC\\Models\\PagoUnicoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T23:31:13.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TipoGastoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\TipoGastoDTO.cs",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Models\\TipoGastoDTO.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Models\\TipoGastoDTO.cs",
+              "RelativeToolTip": "ObligatorioMVC\\Models\\TipoGastoDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T23:31:14.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ObligatorioMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T23:42:24.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ObligatorioMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T23:42:23.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ObligatorioMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioMVC\\ObligatorioMVC\\ObligatorioMVC\\Program.cs",
+              "RelativeToolTip": "ObligatorioMVC\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T23:28:42.967Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

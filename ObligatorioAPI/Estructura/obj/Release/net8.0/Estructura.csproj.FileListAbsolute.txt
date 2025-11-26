@@ -1,0 +1,11 @@
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\bin\Release\net8.0\Estructura.deps.json
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\bin\Release\net8.0\Estructura.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\bin\Release\net8.0\Estructura.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\obj\Release\net8.0\Estructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\obj\Release\net8.0\Estructura.AssemblyInfoInputs.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\obj\Release\net8.0\Estructura.AssemblyInfo.cs
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\obj\Release\net8.0\Estructura.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\obj\Release\net8.0\Estructura.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\obj\Release\net8.0\refint\Estructura.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\obj\Release\net8.0\Estructura.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\obj\Release\net8.0\ref\Estructura.dll

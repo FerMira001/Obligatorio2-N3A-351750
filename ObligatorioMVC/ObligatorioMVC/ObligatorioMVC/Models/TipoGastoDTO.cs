@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ObligatorioMVC.Models
+{
+    public class TipoGastoDTO
+    {
+        public int Id { get; set; }
+        public string Nombre { get; set; }
+        public string Desc { get; set; }
+
+
+        public TipoGastoDTO() { }
+
+        public TipoGastoDTO(string nombre, string desc)
+        {
+            Nombre = nombre;
+            Desc = desc;
+        }
+    }
+}

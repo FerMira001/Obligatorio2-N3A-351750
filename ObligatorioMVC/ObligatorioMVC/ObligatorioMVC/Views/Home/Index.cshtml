@@ -1,0 +1,67 @@
+﻿@{
+    ViewData["Title"] = "Inicio";
+    var rol = Context.Session.GetInt32("Rol");
+}
+
+<h2>Bienvenido al Sistema</h2>
+
+<div class="row mt-4">
+    @if (rol != 0)
+    {
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <a asp-controller="Pagos" asp-action="MisPagos" class="btn btn-primary">
+                    <div class="card-body">
+                        <h5 class="card-title">Mis Pagos</h5>
+                        <p class="card-text">Ver y crear pagos</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    }
+
+    @if (rol == 0)
+    {
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <a asp-controller="Usuarios" asp-action="ResetearPassword" class="btn btn-warning">
+                    <div class="card-body">
+                        <h5 class="card-title">Resetear Contraseña</h5>
+                        <p class="card-text">Resetear contraseña de usuarios</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <a asp-controller="Auditorias" asp-action="PorTipoGasto" class="btn btn-info">
+                    <div class="card-body">
+                        <h5 class="card-title">Auditorías</h5>
+                        <p class="card-text">Ver auditorías por tipo de gasto</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    }
+
+    @if (rol == 1)
+    {
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <a asp-controller="Equipos" asp-action="PagosMayores" class="btn btn-success">
+                    <div class="card-body">
+                        <h5 class="card-title">Equipos</h5>
+                        <p class="card-text">Equipos con pagos mayores a monto</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+    }
+</div>
+
+<div class="mt-4">
+    <form asp-controller="Auth" asp-action="Logout" method="post">
+        <button type="submit" class="btn btn-danger">Cerrar Sesión</button>
+    </form>
+</div>

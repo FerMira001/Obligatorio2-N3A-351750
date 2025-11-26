@@ -1,0 +1,81 @@
+﻿@model ObligatorioMVC.Models.MisPagosResponseDTO
+
+@{
+    ViewData["Title"] = "Mis Pagos";
+}
+
+<h2>Mis Pagos</h2>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+<div class="mb-3">
+    <a asp-action="CrearPagoUnico" class="btn btn-success">Nuevo Pago Único</a>
+    <a asp-action="CrearPagoRecurrente" class="btn btn-success">Nuevo Pago Recurrente</a>
+</div>
+
+<h3>Pagos Únicos</h3>
+@if (Model.PagosUnicos.Any())
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Descripción</th>
+                <th>Monto</th>
+                <th>Fecha</th>
+                <th>Nº Recibo</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var pago in Model.PagosUnicos)
+            {
+                <tr>
+                    <td>@pago.Id</td>
+                    <td>@pago.Desc</td>
+                    <td>@pago.Monto</td>
+                    <td>@pago.FechaPago.ToString("dd/MM/yyyy")</td>
+                    <td>@pago.NumRecibo</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No hay pagos únicos registrados.</p>
+}
+
+<h3>Pagos Recurrentes</h3>
+@if (Model.PagosRecurrentes.Any())
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Descripción</th>
+                <th>Monto Mensual</th>
+                <th>Fecha Inicio</th>
+                <th>Fecha Fin</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var pago in Model.PagosRecurrentes)
+            {
+                <tr>
+                    <td>@pago.Id</td>
+                    <td>@pago.Desc</td>
+                    <td>@pago.MontoMensual</td>
+                    <td>@pago.FechaInicio.ToString("dd/MM/yyyy")</td>
+                    <td>@pago.FechaFin.ToString("dd/MM/yyyy")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No hay pagos recurrentes registrados.</p>
+}

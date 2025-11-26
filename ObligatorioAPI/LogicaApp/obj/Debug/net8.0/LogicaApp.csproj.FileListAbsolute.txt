@@ -1,0 +1,51 @@
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\LogicaApp\bin\Debug\net8.0\LogicaApp.deps.json
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\LogicaApp\bin\Debug\net8.0\LogicaApp.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\LogicaApp\bin\Debug\net8.0\LogicaApp.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\LogicaApp\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\LogicaApp\bin\Debug\net8.0\Estructura.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\LogicaApp\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\LogicaApp\bin\Debug\net8.0\Estructura.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\LogicaApp\obj\Debug\net8.0\LogicaApp.csproj.AssemblyReference.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\LogicaApp\obj\Debug\net8.0\LogicaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\LogicaApp\obj\Debug\net8.0\LogicaApp.AssemblyInfoInputs.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\LogicaApp\obj\Debug\net8.0\LogicaApp.AssemblyInfo.cs
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\LogicaApp\obj\Debug\net8.0\LogicaApp.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\LogicaApp\obj\Debug\net8.0\LogicaApp.csproj.Up2Date
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\LogicaApp\obj\Debug\net8.0\LogicaApp.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\LogicaApp\obj\Debug\net8.0\refint\LogicaApp.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\LogicaApp\obj\Debug\net8.0\LogicaApp.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\LogicaApp\obj\Debug\net8.0\ref\LogicaApp.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\LogicaApp\bin\Debug\net8.0\LogicaApp.deps.json
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\LogicaApp\bin\Debug\net8.0\LogicaApp.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\LogicaApp\bin\Debug\net8.0\LogicaApp.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\LogicaApp\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\LogicaApp\bin\Debug\net8.0\Estructura.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\LogicaApp\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\LogicaApp\bin\Debug\net8.0\Estructura.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\LogicaApp\obj\Debug\net8.0\LogicaApp.csproj.AssemblyReference.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\LogicaApp\obj\Debug\net8.0\LogicaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\LogicaApp\obj\Debug\net8.0\LogicaApp.AssemblyInfoInputs.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\LogicaApp\obj\Debug\net8.0\LogicaApp.AssemblyInfo.cs
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\LogicaApp\obj\Debug\net8.0\LogicaApp.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\LogicaApp\obj\Debug\net8.0\LogicaApp.csproj.Up2Date
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\LogicaApp\obj\Debug\net8.0\LogicaApp.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\LogicaApp\obj\Debug\net8.0\refint\LogicaApp.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\LogicaApp\obj\Debug\net8.0\LogicaApp.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\LogicaApp\obj\Debug\net8.0\ref\LogicaApp.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\LogicaApp\bin\Debug\net8.0\LogicaApp.deps.json
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\LogicaApp\bin\Debug\net8.0\LogicaApp.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\LogicaApp\bin\Debug\net8.0\LogicaApp.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\LogicaApp\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\LogicaApp\bin\Debug\net8.0\Estructura.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\LogicaApp\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\LogicaApp\bin\Debug\net8.0\Estructura.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\LogicaApp\obj\Debug\net8.0\LogicaApp.csproj.AssemblyReference.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\LogicaApp\obj\Debug\net8.0\LogicaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\LogicaApp\obj\Debug\net8.0\LogicaApp.AssemblyInfoInputs.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\LogicaApp\obj\Debug\net8.0\LogicaApp.AssemblyInfo.cs
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\LogicaApp\obj\Debug\net8.0\LogicaApp.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\LogicaApp\obj\Debug\net8.0\LogicaApp.csproj.Up2Date
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\LogicaApp\obj\Debug\net8.0\LogicaApp.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\LogicaApp\obj\Debug\net8.0\refint\LogicaApp.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\LogicaApp\obj\Debug\net8.0\LogicaApp.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\LogicaApp\obj\Debug\net8.0\ref\LogicaApp.dll

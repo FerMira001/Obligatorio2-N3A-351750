@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "TuProyecto.Controllers.Api.PagoApiController",
+    "Method": "Get",
+    "RelativePath": "api/PagoApi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LogicaApp.DTO.PagoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

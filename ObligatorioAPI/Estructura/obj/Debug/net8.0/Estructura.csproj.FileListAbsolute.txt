@@ -1,0 +1,33 @@
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\Estructura\bin\Debug\net8.0\Estructura.deps.json
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\Estructura\bin\Debug\net8.0\Estructura.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\Estructura\bin\Debug\net8.0\Estructura.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\Estructura\obj\Debug\net8.0\Estructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\Estructura\obj\Debug\net8.0\Estructura.AssemblyInfoInputs.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\Estructura\obj\Debug\net8.0\Estructura.AssemblyInfo.cs
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\Estructura\obj\Debug\net8.0\Estructura.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\Estructura\obj\Debug\net8.0\Estructura.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\Estructura\obj\Debug\net8.0\refint\Estructura.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\Estructura\obj\Debug\net8.0\Estructura.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\Estructura\obj\Debug\net8.0\ref\Estructura.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\Estructura\bin\Debug\net8.0\Estructura.deps.json
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\Estructura\bin\Debug\net8.0\Estructura.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\Estructura\bin\Debug\net8.0\Estructura.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\Estructura\obj\Debug\net8.0\Estructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\Estructura\obj\Debug\net8.0\Estructura.AssemblyInfoInputs.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\Estructura\obj\Debug\net8.0\Estructura.AssemblyInfo.cs
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\Estructura\obj\Debug\net8.0\Estructura.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\Estructura\obj\Debug\net8.0\Estructura.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\Estructura\obj\Debug\net8.0\refint\Estructura.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\Estructura\obj\Debug\net8.0\Estructura.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\Estructura\obj\Debug\net8.0\ref\Estructura.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\bin\Debug\net8.0\Estructura.deps.json
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\bin\Debug\net8.0\Estructura.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\bin\Debug\net8.0\Estructura.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\obj\Debug\net8.0\Estructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\obj\Debug\net8.0\Estructura.AssemblyInfoInputs.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\obj\Debug\net8.0\Estructura.AssemblyInfo.cs
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\obj\Debug\net8.0\Estructura.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\obj\Debug\net8.0\Estructura.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\obj\Debug\net8.0\refint\Estructura.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\obj\Debug\net8.0\Estructura.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\Estructura\obj\Debug\net8.0\ref\Estructura.dll

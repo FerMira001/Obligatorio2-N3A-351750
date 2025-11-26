@@ -1,0 +1,47 @@
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\AccesoDatos\bin\Debug\net8.0\Estructura.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\AccesoDatos\bin\Debug\net8.0\Estructura.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\AccesoDatos\obj\Debug\net8.0\AccesoDa.B2719C34.Up2Date
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 1\OBLIGATORIO SLN\Obligatorio20250908\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\AccesoDatos\bin\Debug\net8.0\Estructura.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\AccesoDatos\bin\Debug\net8.0\Estructura.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\AccesoDatos\obj\Debug\net8.0\AccesoDa.B2719C34.Up2Date
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\Obligatorio20251124\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\AccesoDatos\bin\Debug\net8.0\Estructura.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\AccesoDatos\bin\Debug\net8.0\Estructura.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\AccesoDatos\obj\Debug\net8.0\AccesoDa.B2719C34.Up2Date
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\AccesoDatos\bin\Debug\net8.0\AccesoDatos.runtimeconfig.json
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioAPI\AccesoDatos\obj\Debug\net8.0\AccesoDatos.genruntimeconfig.cache

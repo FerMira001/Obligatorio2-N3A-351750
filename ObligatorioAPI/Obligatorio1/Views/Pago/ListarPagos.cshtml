@@ -1,0 +1,104 @@
+﻿@using LogicaApp.DTO
+@{
+    ViewBag.Title = "Listado de Pagos";
+    var pagosRec = ViewBag.PagosRecurrentes;
+    var pagosUnicos = ViewBag.PagosUnicos;
+	var totalAPagar = ViewBag.TotalAPagar;
+}
+
+<h2>Listado de Pagos</h2>
+<hr />
+
+<form method="get" asp-action="ListarPagos">
+    <div class="form-group">
+        <label>Mes</label>
+        <input type="number" name="mes" min="1" max="12" class="form-control" value="@(ViewBag.mes)"/>
+    </div>
+
+    <div class="form-group">
+        <label>Año</label>
+        <input type="number" name="anio" min="1900" max="2100" class="form-control" value="@(ViewBag.anio)"/>
+    </div>
+
+    <button type="submit" class="btn btn-primary mt-2">Consultar pagos</button>
+</form>
+<hr />  
+<br />
+<h4>Falta por pagar: $@totalAPagar</h4>
+<br />
+<hr />
+@if (pagosRec == null)
+{
+    <div>No hay pagos recurrentes registrados para el período seleccionado.</div>
+}
+else
+{
+    <h3>Pagos Recurrentes</h3>
+    <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Metodo pago</th>
+                <th>Tipo de gasto</th>
+                <th>Usuario</th>
+                <th>Descripción</th>
+                <th>Fecha Inicio</th>
+                <th>Fecha Fin</th>
+                <th>Monto</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var pago in pagosRec)
+            {
+                <tr>
+                    <td>@pago.Id</td>
+					<td>@pago.MetodoPago</td>
+                    <td>@pago.TipoGasto</td>
+                    <td>@pago.Usuario</td>
+                    <td>@pago.Desc</td>
+                    <td>@pago.FechaInicio</td>
+                    <td>@pago.FechaFin</td>
+                    <td>@pago.MontoMensual</td>
+                </tr>
+            }
+            </tbody>
+        </table>
+}
+
+@if (pagosUnicos == null)
+{
+    <div>No hay pagos unicos registrados para el período seleccionado.</div>
+}
+else
+{
+    <h3>Pagos Recurrentes</h3>
+    <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Metodo pago</th>
+                <th>Tipo de gasto</th>
+                <th>Usuario</th>
+                <th>Descripción</th>
+                <th>FechaPago</th>
+                <th>Recibo</th>
+                <th>Monto</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var pago in pagosUnicos)
+            {
+                <tr>
+                    <td>@pago.Id</td>
+                    <td>@pago.MetodoPago</td>
+                    <td>@pago.TipoGasto</td>
+                    <td>@pago.Usuario</td>
+                    <td>@pago.Desc</td>
+                    <td>@pago.FechaPago</td>
+                    <td>@pago.NumRecibo</td>
+                    <td>@pago.Monto</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

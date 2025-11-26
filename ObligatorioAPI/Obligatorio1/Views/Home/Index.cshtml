@@ -1,0 +1,78 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+@if (TempData["Exito"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <i class="bi bi-check-circle-fill me-2"></i>@TempData["Exito"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>
+}
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <i class="bi bi-check-circle-fill me-2"></i>@TempData["Error"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    </div>
+}
+
+
+<h1>Bienvenido @Context.Session.GetString("UsuarioNombre")</h1>
+<br />
+@if (Context.Session.GetString("UsuarioRol") == "0"){
+    <h3>Usted es un Administrador</h3>
+}
+@if (Context.Session.GetString("UsuarioRol") == "1")
+{
+	<h3>Usted es un Gerente</h3>
+}
+@if (Context.Session.GetString("UsuarioRol") == "2")
+{
+    <h3>Usted es un Empleado</h3>
+}
+
+<p>Tiene disponibles las siguientes opciones:</p>
+
+@{
+    if (Context.Session.GetString("UsuarioRol") == "0")
+    {
+        <form method="get" asp-controller="Usuario" asp-action="Registrar" class="d-inline">
+            <button type="submit" class="btn btn-outline-primary">Registrar usuario</button>
+        </form>
+        <form method="get" asp-controller="TipoGasto" asp-action="Index" class="d-inline">
+            <button type="submit" class="btn btn-outline-secondary">Tipos de gasto</button>
+        </form>
+    }
+    if (Context.Session.GetString("UsuarioRol") == "1")
+    {
+        <form method="get" asp-controller="Pago" asp-action="ListarPagos" class="d-inline">
+            <button type="submit" class="btn btn-outline-primary">Lista de pagos</button>
+        </form>
+        <form method="get" asp-controller="Pago" asp-action="MostrarPagosUsuarios" class="d-inline">
+            <button type="submit" class="btn btn-outline-secondary">Pagos usuarios</button>
+        </form>
+    }
+    <form method="get" asp-controller="Pago" asp-action="Create" class="d-inline">
+        <button type="submit" class="btn btn-outline-success">Alta pago</button>
+    </form>
+    <form method="get" asp-controller="Usuario" asp-action="Logout" class="d-inline">
+        <button type="submit" class="btn btn-outline-danger">Cerrar sesión</button>
+    </form>
+}
+
+
+
+@section Scripts {
+    <script>
+        setTimeout(function() {
+            var alerts = document.querySelectorAll('.alert');
+            alerts.forEach(function(alert) {
+                var bsAlert = new bootstrap.Alert(alert);
+                bsAlert.close();
+            });
+        }, 5000);
+    </script>
+}
+

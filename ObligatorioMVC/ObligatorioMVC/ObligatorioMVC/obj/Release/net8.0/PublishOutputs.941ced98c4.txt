@@ -1,0 +1,7 @@
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioMVC\ObligatorioMVC\ObligatorioMVC\obj\Release\net8.0\PubTmp\Out\ObligatorioMVC.exe
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioMVC\ObligatorioMVC\ObligatorioMVC\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioMVC\ObligatorioMVC\ObligatorioMVC\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioMVC\ObligatorioMVC\ObligatorioMVC\obj\Release\net8.0\PubTmp\Out\ObligatorioMVC.dll
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioMVC\ObligatorioMVC\ObligatorioMVC\obj\Release\net8.0\PubTmp\Out\ObligatorioMVC.deps.json
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioMVC\ObligatorioMVC\ObligatorioMVC\obj\Release\net8.0\PubTmp\Out\ObligatorioMVC.runtimeconfig.json
+C:\Users\Fer\Desktop\ORT\Semestre3\P3\OBLIGATORIO 2\ObligatorioMVC\ObligatorioMVC\ObligatorioMVC\obj\Release\net8.0\PubTmp\Out\ObligatorioMVC.pdb

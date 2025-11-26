@@ -1,0 +1,54 @@
+﻿@model List<ObligatorioMVC.Models.EquipoDTO>
+
+@{
+    ViewData["Title"] = "Equipos con Pagos Mayores";
+}
+
+<h2>Equipos con Pagos Únicos Mayores a un Monto</h2>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+<form asp-action="PagosMayores" method="post" class="mb-4">
+    <div class="row">
+        <div class="col-md-4">
+            <label class="form-label">Monto mínimo</label>
+            <input type="number" name="monto" step="0.01" class="form-control" required />
+        </div>
+        <div class="col-md-2 d-flex align-items-end">
+            <button type="submit" class="btn btn-primary">Buscar</button>
+        </div>
+    </div>
+</form>
+
+@if (ViewBag.MontoBuscado != null)
+{
+    <p>Equipos con pagos mayores a <strong>@ViewBag.MontoBuscado</strong>:</p>
+}
+
+@if (Model.Any())
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var equipo in Model)
+            {
+                <tr>
+                    <td>@equipo.Id</td>
+                    <td>@equipo.Nombre</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else if (ViewBag.MontoBuscado != null)
+{
+    <p>No se encontraron equipos.</p>
+}

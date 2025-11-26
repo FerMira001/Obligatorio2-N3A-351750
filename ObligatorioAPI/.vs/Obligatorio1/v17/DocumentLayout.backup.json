@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62430687-EFF8-4E15-83A8-AD2B67B2DDA7}|ObligatorioAPI\\ObligatorioAPI.csproj|c:\\users\\fer\\desktop\\ort\\semestre3\\p3\\obligatorio 2\\obligatorioapi\\obligatorioapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{62430687-EFF8-4E15-83A8-AD2B67B2DDA7}|ObligatorioAPI\\ObligatorioAPI.csproj|solutionrelative:obligatorioapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 418,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioAPI\\ObligatorioAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ObligatorioAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Fer\\Desktop\\ORT\\Semestre3\\P3\\OBLIGATORIO 2\\ObligatorioAPI\\ObligatorioAPI\\appsettings.json",
+              "RelativeToolTip": "ObligatorioAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-25T23:27:44.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

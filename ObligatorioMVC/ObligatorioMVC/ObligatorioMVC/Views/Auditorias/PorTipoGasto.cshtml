@@ -1,0 +1,58 @@
+﻿@model List<ObligatorioMVC.Models.AuditoriaDTO>
+
+@{
+    ViewData["Title"] = "Auditorías por Tipo de Gasto";
+}
+
+<h2>Auditorías por Tipo de Gasto</h2>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+<form asp-action="PorTipoGasto" method="post" class="mb-4">
+    <div class="row">
+        <div class="col-md-4">
+            <label class="form-label">ID del Tipo de Gasto</label>
+            <input type="number" name="tipoGastoId" class="form-control" required />
+        </div>
+        <div class="col-md-2 d-flex align-items-end">
+            <button type="submit" class="btn btn-primary">Buscar</button>
+        </div>
+    </div>
+</form>
+
+@if (ViewBag.TipoGastoId != null)
+{
+    <p>Auditorías del tipo de gasto <strong>@ViewBag.TipoGastoId</strong>:</p>
+}
+
+@if (Model.Any())
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Acción</th>
+                <th>Fecha</th>
+                <th>Usuario ID</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var auditoria in Model)
+            {
+                <tr>
+                    <td>@auditoria.Id</td>
+                    <td>@auditoria.Accion</td>
+                    <td>@auditoria.Fecha.ToString("dd/MM/yyyy HH:mm")</td>
+                    <td>@auditoria.UsuarioId</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else if (ViewBag.TipoGastoId != null)
+{
+    <p>No se encontraron auditorías.</p>
+}
